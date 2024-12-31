@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+nav{
+    background: #eeedde;
+    padding: 50px 100px;
+}
+.container{
+    width: 1320px;
+}
+
+nav .container{
+    display: flex;
+    column-gap: 524px;
+}
+
+.logo{
+    display: flex;
+}
+.menu{
+    display: flex;
+    column-gap: 100px;
+}
+.home{
+    font-family: "Poppins", serif;
+    font-weight: 600;
+}
+.light{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+}
